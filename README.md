@@ -2,7 +2,7 @@
 
 学习zookeeper写的代码, 由于是自己创建的多项目maven中的一个，所以有需要运行的自行添加以下依赖（我学习时使用的版本）
 
-记录笔记在[传送门](https://blog.csdn.net/weixin_42132763)
+记录笔记在[传送门](https://blog.csdn.net/weixin_42132763/category_9631982.html)
 
 ```xml
 <!--  raw zk client      -->
